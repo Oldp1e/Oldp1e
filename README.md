@@ -34,7 +34,7 @@ Apaixonado por criar experiências digitais inovadoras com tecnologia, design e 
 
 - 🌐 [Portfólio](https://samueljunior.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
-- ✉️ Contato: samueljunior@email.com
+- ✉️ Contato: samuellima06091999@gmail.com
 
 ---
 
