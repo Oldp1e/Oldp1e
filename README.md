@@ -38,6 +38,11 @@ Apaixonado por criar experiências digitais inovadoras com tecnologia, design e 
 
 ---
 
+<img width="3268" height="1178" alt="image" src="https://github.com/user-attachments/assets/7a847061-f450-4163-a02d-c1efe0261ed2" />
+<img width="3267" height="1163" alt="image" src="https://github.com/user-attachments/assets/5e864ea4-d243-4356-b365-3427eb4446e7" />
+<img width="3259" height="1167" alt="image" src="https://github.com/user-attachments/assets/3e1aaabb-440d-48fd-89fa-0d96b125eb84" />
+
+
 <!--
 **samueljunior/samueljunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
 -->
