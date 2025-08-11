@@ -1,17 +1,17 @@
 # Hey 👋, welcome to my GitHub!
 
-Meu nome é Samuel Junior, sou Engenheiro de Software, Game Developer e Especialista em Backend.  
-Apaixonado por criar experiências digitais inovadoras com tecnologia, design e criatividade.
+My name is Samuel Junior, a Software Engineer, Game Developer, and Backend Specialist.
+I'm passionate about creating innovative digital experiences with technology, design, and creativity.
 
 ---
 
 ## 🚀 About me
 
-- 💡 Adoro transformar ideias em projetos práticos
-- 👾 Desenvolvedor de jogos e sistemas web
-- 💻 Stack principal: Backend (PHP, Node.js, MySQL), mas também curto Front-end moderno
-- 🎮 Founder do estúdio [Tropical Pixel Studios](https://samueljunior.tech)
-- 🤝 Sempre aberto a colaborações e novos desafios
+- 💡 I love turning ideas into practical projects
+- 👾 Game and web systems developer
+- 💻 Main stack: Backend (PHP, Node.js, MySQL), but I also enjoy modern frontend
+- 🎮 Founder of the studio [Tropical Pixel Studios](https://samueljunior.tech)
+- 🤝 Always open to collaborations and new challenges
 
 ---
 
