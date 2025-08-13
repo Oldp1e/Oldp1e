@@ -29,6 +29,7 @@ I'm passionate about creating innovative digital experiences with technology, de
 ## DISCLAIMER
 EN - During my time at GTPlan, all code versioning was done in the company's private GitLab, which is not public and not connected to my personal GitHub.
 Therefore, my GitHub activity during this period does not reflect my actual production. I worked daily with versioning, branches, merges, and code reviews in GitLab, following good preactices, from 2021 to 2025.
+
 PT - Durante meus anos na empresa GTPlan, todo o versionamento de código era feito no GitLab privado da empresa, que não é público e nem conectado ao meu GitHub pessoal.
 Por isso, minha atividade no GitHub nesse período não reflete minha produção real. Trabalhei diariamente com versionamento, branches, merges e code reviews no GitLab, seguindo boas práticas no periodo de 2021 a 2025.
 
