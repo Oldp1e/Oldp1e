@@ -17,10 +17,10 @@ Minha especialidade é criar soluções backend robustas, escaláveis e integrad
 
 ## 📌 Disclaimer sobre GitHub e GitLab
 
-> **PT** — Entre 2020 e 2025, todo meu trabalho foi realizado em **GitLab privado** da empresa, sem conexão com meu GitHub pessoal. Por isso, minha atividade pública aqui não reflete minha real produção nesse período.  
+> **PT** — Entre 2021 e 2025, todo meu trabalho foi realizado em **GitLab privado** da empresa, sem conexão com meu GitHub pessoal. Por isso, minha atividade pública aqui não reflete minha real produção nesse período.  
 > Trabalhei diariamente com versionamento, criação e revisão de branches, merges e boas práticas de Git Flow, com grande foco no **Scriptcase**.  
 >  
-> **EN** — From 2020 to 2025, all my work was done in the company's **private GitLab**, not linked to my personal GitHub. Therefore, my public activity here does not reflect my actual contributions during that period. I worked daily with versioning, branch management, merges, and code reviews, with a strong focus on **Scriptcase**.
+> **EN** — From 2021 to 2025, all my work was done in the company's **private GitLab**, not linked to my personal GitHub. Therefore, my public activity here does not reflect my actual contributions during that period. I worked daily with versioning, branch management, merges, and code reviews, with a strong focus on **Scriptcase**.
 
 ---
 
