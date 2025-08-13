@@ -1,37 +1,31 @@
-# Hey 👋, welcome to my GitHub!
+# Samuel Junior — Desenvolvedor PHP Pleno/Sênior
 
-My name is Samuel Junior, a Software Engineer, Game Developer, and Backend Specialist.
-I'm passionate about creating innovative digital experiences with technology, design, and creativity.
+Sou desenvolvedor com mais de **7 anos de experiência em PHP**, atuando fortemente com **Scriptcase** no desenvolvimento de sistemas de gestão e aplicações corporativas.  
+Durante 2 anos na **GTPlan**, fui o terceiro maior contribuidor da aplicação principal, ficando apenas atrás dos dois desenvolvedores sênior responsáveis pela arquitetura geral.
 
-## 🛠️ Tech Stack
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</div>
+Minha especialidade é criar soluções backend robustas, escaláveis e integradas, com foco em performance e manutenção a longo prazo.
 
 ---
 
-## 📫 Where to find me
-
-- 🌐 [Portfólio](https://samueljunior.tech)
-- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
-- ✉️ Contato: samuellima06091999@gmail.com
+## 🛠️ Competências Técnicas
+- **Linguagens:** PHP, JavaScript
+- **Frameworks/Bibliotecas:** Laravel, jQuery, Scriptcase
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, Scriptcase, APIs REST, Integrações com sistemas de pagamento
+- **Metodologias:** Git Flow, Code Review, Boas práticas de versionamento
 
 ---
 
-## DISCLAIMER
-EN - During my time at GTPlan, all code versioning was done in the company's private GitLab, which is not public and not connected to my personal GitHub.
-Therefore, my GitHub activity during this period does not reflect my actual production. I worked daily with versioning, branches, merges, and code reviews in GitLab, following good preactices, from 2021 to 2025.
+## 📌 Disclaimer sobre GitHub e GitLab
 
-PT - Durante meus anos na empresa GTPlan, todo o versionamento de código era feito no GitLab privado da empresa, que não é público e nem conectado ao meu GitHub pessoal.
-Por isso, minha atividade no GitHub nesse período não reflete minha produção real. Trabalhei diariamente com versionamento, branches, merges e code reviews no GitLab, seguindo boas práticas no periodo de 2021 a 2025.
+> **PT** — Entre 2021 e 2025, todo meu trabalho foi realizado em **GitLab privado** da empresa, sem conexão com meu GitHub pessoal. Por isso, minha atividade pública aqui não reflete minha real produção nesse período.  
+> Trabalhei diariamente com versionamento, criação e revisão de branches, merges e boas práticas de Git Flow, com grande foco no **Scriptcase**.  
+>  
+> **EN** — From 2021 to 2025, all my work was done in the company's **private GitLab**, not linked to my personal GitHub. Therefore, my public activity here does not reflect my actual contributions during that period. I worked daily with versioning, branch management, merges, and code reviews, with a strong focus on **Scriptcase**.
 
+---
 
-
-<!--
-**samueljunior/samueljunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
--->
+## 📫 Contato
+- **Portfólio:** [samueljunior.tech](https://samueljunior.tech)
+- **LinkedIn:** [linkedin.com/in/seuperfil]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/samuellima-tech/))
+- **E-mail:** samuellima06091999@gmail.com
