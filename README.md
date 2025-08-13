@@ -26,5 +26,5 @@ Minha especialidade é criar soluções backend robustas, escaláveis e integrad
 
 ## 📫 Contato
 - **Portfólio:** [samueljunior.tech](https://samueljunior.tech)  
-- **LinkedIn:** [linkedin.com/in/seuperfil](https://www.linkedin.com/in/samuellima-tech/)
+- **LinkedIn:** [linkedin.com/in/samuellima-tech](https://www.linkedin.com/in/samuellima-tech/)
 - **E-mail:** samuellima06091999@gmail.com
