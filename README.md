@@ -1,4 +1,4 @@
-# Samuel Junior — Desenvolvedor PHP Pleno
+# Samuel Junior — Desenvolvedor PHP Sênior
 
 Sou desenvolvedor com mais de **7 anos de experiência profissional em PHP**, atuando fortemente com **Scriptcase** no desenvolvimento de sistemas de gestão e aplicações corporativas.  
 
