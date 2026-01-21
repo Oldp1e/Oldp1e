@@ -7,9 +7,9 @@ Minha especialidade é criar soluções backend robustas, escaláveis e integrad
 ---
 
 ## 🛠️ Competências Técnicas
-- **Linguagens:** PHP, JavaScript
-- **Frameworks/Bibliotecas:** Laravel, jQuery, Scriptcase
-- **Banco de Dados:** MySQL, PL/SQL
+- **Linguagens:** PHP, JavaScript, Java
+- **Frameworks/Bibliotecas:** Laravel, jQuery, Scriptcase, Springboot
+- **Banco de Dados:** MySQL, PL/SQL, PostgreSQL
 - **Ferramentas:** Git, Scriptcase, APIs, Integrações com sistemas de pagamento
 - **Metodologias:** Scrum & Kanban
 
